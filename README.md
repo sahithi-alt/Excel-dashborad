@@ -56,8 +56,7 @@ Data Used:<br/>
 •	Optimize inventory for high-demand products to avoid stockouts. Simultaneously, reduce overstock of underperforming items to improve cost efficiency.<br/>
 **Strategic Opportunity:**<br/>
 •	 Astoria experiences a strong sales spike during morning commute hours (7–10 AM) and a dip in evening activity (7–8 PM). Adjusting operating hours and focusing resources during peak times can help improve margins.<br/>
-Dashboard with selected with Astoria location in the Slicer :< a href ="https://github.com/sahithi-alt/Excel-dashborad/blob/main/Astoria%20location%20Dashboard.png">
-
+<a href="https://github.com/sahithi-alt/Excel-dashborad/blob/main/Astoria%20location%20Dashboard.png">View Astoria Dashboard </a> 
 
 
 ## Hell’s Kitchen location <br/>
@@ -77,6 +76,8 @@ Dashboard with selected with Astoria location in the Slicer :< a href ="https://
 •	Evaluate the inventory strategy for low-performing categories to reduce waste and improve efficiency.<br/>
 •	Implement time-specific campaigns (e.g., breakfast combos) to maximize morning revenue.<br/>
 •	Strategic Opportunity: Hell’s Kitchen benefits from consistent midweek performance and high morning sales. Targeted weekend promotions and leveraging popular products can further enhance profitability.<br/>
+<a href="https://github.com/sahithi-alt/Excel-dashborad/blob/main/Hells%20kitchen%20Dashboard.png">View Hell’s Kitchen Dashboard </a>
+
 
 ## Lower Manhattan location:<br/>
 **Business Insights:<br/>**
@@ -95,6 +96,7 @@ Dashboard with selected with Astoria location in the Slicer :< a href ="https://
 •	Introduce new coffee flavors or variants to capitalize on its popularity.<br/>
 •	Explore bundling high-performing items with less popular products to boost overall sales.<br/>
 •	Strategic Opportunity: Lower Manhattan thrives on morning sales and weekday transactions. Strengthening weekend strategies and introducing innovative product offerings can help sustain growth.<br/>
+<a href="https://github.com/sahithi-alt/Excel-dashborad/blob/main/Lower%20Manhattan%20Dashboard.png">View Lower Manhattan Dashboard </a>
 
 ## **Final Conclusion:**<br/>
 ### **Across all locations:**<br/>
@@ -102,3 +104,4 @@ Dashboard with selected with Astoria location in the Slicer :< a href ="https://
 •	Day-of-Week Strategy: Enhance weekend performance through targeted promotions and campaigns.<br/>
 •	Product Optimization: Coffee and Tea are universal favorites, providing opportunities for innovation and bundling.<br/>
 •	Inventory Management: Address underperforming categories to minimize waste while maintaining sufficient stock for high-demand items.<br/>
+ 
