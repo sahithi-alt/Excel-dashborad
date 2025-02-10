@@ -108,7 +108,8 @@ Data Used:<br/>
 •	Day-of-Week Strategy: Enhance weekend performance through targeted promotions and campaigns.<br/>
 •	Product Optimization: Coffee and Tea are universal favorites, providing opportunities for innovation and bundling.<br/>
 •	Inventory Management: Address underperforming categories to minimize waste while maintaining sufficient stock for high-demand items.<br/>
-![image](https://github.com/user-attachments/assets/a96bc1c1-ea4d-4ba5-80c3-3afd36b2490f)
+![image](https://github.com/user-attachments/assets/00e7be8c-6470-41d0-9756-4d240b658326)
+
 
 
  
