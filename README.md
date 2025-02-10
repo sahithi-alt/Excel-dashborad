@@ -56,7 +56,9 @@ Data Used:<br/>
 •	Optimize inventory for high-demand products to avoid stockouts. Simultaneously, reduce overstock of underperforming items to improve cost efficiency.<br/>
 **Strategic Opportunity:**<br/>
 •	 Astoria experiences a strong sales spike during morning commute hours (7–10 AM) and a dip in evening activity (7–8 PM). Adjusting operating hours and focusing resources during peak times can help improve margins.<br/>
-<a href="https://github.com/sahithi-alt/Excel-dashborad/blob/main/Astoria%20location%20Dashboard.png">View Astoria Dashboard </a> 
+<img width="488" alt="Astoria location Dashboard" src="https://github.com/user-attachments/assets/73cef00e-e4e4-495e-9d4b-7a6108a0b832" />
+
+
 
 
 ## Hell’s Kitchen location <br/>
@@ -76,7 +78,8 @@ Data Used:<br/>
 •	Evaluate the inventory strategy for low-performing categories to reduce waste and improve efficiency.<br/>
 •	Implement time-specific campaigns (e.g., breakfast combos) to maximize morning revenue.<br/>
 •	Strategic Opportunity: Hell’s Kitchen benefits from consistent midweek performance and high morning sales. Targeted weekend promotions and leveraging popular products can further enhance profitability.<br/>
-<a href="https://github.com/sahithi-alt/Excel-dashborad/blob/main/Hells%20kitchen%20Dashboard.png">View Hell’s Kitchen Dashboard </a>
+<img width="466" alt="Hells kitchen Dashboard" src="https://github.com/user-attachments/assets/f0f2dce8-2b31-49c5-af5b-0ec8ac6c8fb9" />
+
 
 
 ## Lower Manhattan location:<br/>
@@ -96,7 +99,8 @@ Data Used:<br/>
 •	Introduce new coffee flavors or variants to capitalize on its popularity.<br/>
 •	Explore bundling high-performing items with less popular products to boost overall sales.<br/>
 •	Strategic Opportunity: Lower Manhattan thrives on morning sales and weekday transactions. Strengthening weekend strategies and introducing innovative product offerings can help sustain growth.<br/>
-<a href="https://github.com/sahithi-alt/Excel-dashborad/blob/main/Lower%20Manhattan%20Dashboard.png">View Lower Manhattan Dashboard </a>
+<img width="461" alt="Lower Manhattan Dashboard" src="https://github.com/user-attachments/assets/4a203950-1da5-4881-9dde-c39194fc04ca" />
+
 
 ## **Final Conclusion:**<br/>
 ### **Across all locations:**<br/>
@@ -104,4 +108,7 @@ Data Used:<br/>
 •	Day-of-Week Strategy: Enhance weekend performance through targeted promotions and campaigns.<br/>
 •	Product Optimization: Coffee and Tea are universal favorites, providing opportunities for innovation and bundling.<br/>
 •	Inventory Management: Address underperforming categories to minimize waste while maintaining sufficient stock for high-demand items.<br/>
+![image](https://github.com/user-attachments/assets/a96bc1c1-ea4d-4ba5-80c3-3afd36b2490f)
+
+
  
