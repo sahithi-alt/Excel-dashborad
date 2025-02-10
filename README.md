@@ -56,6 +56,8 @@ Data Used:<br/>
 •	Optimize inventory for high-demand products to avoid stockouts. Simultaneously, reduce overstock of underperforming items to improve cost efficiency.<br/>
 **Strategic Opportunity:**<br/>
 •	 Astoria experiences a strong sales spike during morning commute hours (7–10 AM) and a dip in evening activity (7–8 PM). Adjusting operating hours and focusing resources during peak times can help improve margins.<br/>
+Dashboard with selected with Astoria location in the Slicer :https://github.com/sahithi-alt/Excel-dashborad/blob/main/Astoria%20location%20Dashboard.png
+
 
 ## Hell’s Kitchen location <br/>
 ### Business Insights:<br/>
